@@ -13,7 +13,6 @@ $images = glob($dir_name."*.*");
 ?>
 
 <div class="container-fluid">
- 
 <div style="height:100px">
     </div>
     
