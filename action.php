@@ -76,4 +76,9 @@ if (file_exists($path_filename_ext)) {
   </div>";
  }
 
+}else{
+    echo "
+    <div class=\"alert alert-danger\" role=\"alert\">
+    You must provide all the fields !
+  </div>";
 }
