@@ -20,6 +20,9 @@ No install required. Just drop inside of one php server public docs and it works
 9. Put a user id Anchor ```---i-``` and the UID of the user (now its a random number for example)
 10. Save the file.
  
+### Example picture name:
+ ```S-p-n-Moving Picrturer—t-2021-01-07—n-10.—d-This is a camera. At least the bootstrap is working. Would be great to fix the naming issues but have no time.—p-1800—l-0—u-59572.jpg```
+ 
 ## Todos / future:
 1. add aditional fields
 2. finish the like functionality
