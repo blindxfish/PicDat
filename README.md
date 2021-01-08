@@ -29,8 +29,7 @@ No install required. Just drop inside of one php server public docs and it works
 3. try out new methods like convert the data to image format and add it to the bottom of the picture / crop it out when presented.
 4. add hashing and encrippt the data on the name
 5. add extra checking, validation at the frontend
-
-**6.Try to compress and decompress the name before applying
+**Try to compress and decompress the name before applying
 
 
 ## Live preview:
