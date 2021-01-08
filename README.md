@@ -15,7 +15,7 @@ No install required. Just drop inside of one php server public docs and it works
 4. Put a date Anchor ```---t-``` and the date
 5. Put a name Anchor ```---n-``` and the thee characters from the old name
 6. Put a description Anchor ```---d-``` and the description ( check for length - max 150 )
-7. Put a price Anchor ```---p-` and the price (max 1milion).
+7. Put a price Anchor ```---p-``` and the price (max 1milion).
 8. Put a like Anchor ```---l-``` and number of likes (not in use for now)
 9. Put a user id Anchor ```---i-``` and the UID of the user (now its a random number for example)
 10. Save the file.
@@ -26,9 +26,10 @@ No install required. Just drop inside of one php server public docs and it works
 ## Todos / future:
 1. add aditional fields
 2. finish the like functionality
-3. try out new methods/image corner data, pixel data and so.
+3. try out new methods like convert the data to image format and add it to the bottom of the picture / crop it out when presented.
 4. add hashing and encrippt the data on the name
 5. add extra checking, validation at the frontend
+6. **Try to compress and decompress the name before applying
 
 
 ## Live preview:
